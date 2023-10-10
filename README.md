@@ -1,6 +1,4 @@
 # world_time
 
-A new Flutter application.
+World time application built using flutter
 
-## Getting Started
-![giphy record](assets/giphy.gif)
